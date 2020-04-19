@@ -2,6 +2,7 @@
 React Native wrapper for Intercom.io. Based off of [intercom-cordova](https://github.com/intercom/intercom-cordova)
 
 ***UPGRADED TO SDK 6 and compitable ONLY with old version of react-native and Android***
+
 For the compatibility with new android and react-native use the official one.
 
 # Installation Guide
